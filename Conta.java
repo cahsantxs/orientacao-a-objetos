@@ -14,7 +14,7 @@ class Conta {
 	 * em linguagens estáticas como Java, pois permite que o compilador 
 	 * verifique a corretude do código em tempo de compilação. */
 
-	double conta; //O tipo 'double' é usado para representar valores numéricos de ponto flutuante 
+	double saldo; //O tipo 'double' é usado para representar valores numéricos de ponto flutuante 
 	int numero; //O tipo 'int' é usado para representar valores inteiros
 	int agencia; // -----------------------------------------------------------------------------
 	String titular; //O tipo String é usado para representar sequências de caracteres (texto).
