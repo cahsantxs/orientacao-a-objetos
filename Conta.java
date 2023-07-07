@@ -1,13 +1,13 @@
 package bytebank;
 
-/* A palavra reservada 'class' em java é usada para declarar a definição de uma classe.
- * A classe define a estrutura e o comportamento dos objetos que serão criados a partir dela.*/
+	/* A palavra reservada 'class' em java é usada para declarar a definição de uma classe.
+	 * A classe define a estrutura e o comportamento dos objetos que serão criados a partir dela.*/
 
 class Conta { 	
 
-			/* A função das chaves é definir o início e o fim de um bloco de código. 
-			 * Todas as instruções dentro de um bloco são consideradas parte desse bloco 
-			 * e são executadas em conjunto. */
+	/* A função das chaves é definir o início e o fim de um bloco de código. 
+	 * Todas as instruções dentro de um bloco são consideradas parte desse bloco 
+	 * e são executadas em conjunto. */
 
 	/* Em Java é necessário declarar o tipo da variável ao utilizá-la.
 	 * A declaração do tipo de variável é uma prática fundamental 
