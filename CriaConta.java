@@ -8,13 +8,13 @@ public class CriaConta {
 		 * (objeto) de uma classe. Ela aloca espaço na memória para armazenar as características 
 		 * do objeto. Ao utilizar new, é necessário especificar o nome da classe da qual deseja-se 					  
 		 * criar o objeto. Nesse caso específico, o código cria um objeto da classe Conta, 
-	     * que possui atributos: conta, número, agência e titular.*/
+	     * que possui os atributos: conta, número, agência e titular. */
 		
 		primeiraConta.saldo = 200; 
 
 		/* A linha de código 'primeiraConta.saldo = 200;' é responsável por acessar o objeto 
 		 * 'primeiraConta' previamente alocado na memória e atribuir o valor '200' 
-		 * ao atributo 'saldo'.Essa atribuição de valor atualiza o saldo da conta para 200.*/
+		 * ao atributo 'saldo'.Essa atribuição de valor atualiza o saldo da conta para 200. */
 		
 		System.out.println(primeiraConta.saldo);
 		
