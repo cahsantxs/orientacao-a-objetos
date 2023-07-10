@@ -19,8 +19,22 @@ class Conta {
 	int agencia; // -----------------------------------------------------------------------------
 	String titular; //O tipo String é usado para representar sequências de caracteres (texto).
 	
-	/* Para executar um programa em Java, é necessário ter um ponto de entrada, que é o método 'main'.
+	/* Em Java, os valores default dos objetos são inicializados como null.
+	 * Isso significa que, se você criar um objeto e não atribuir um valor específico a ele, 
+	 * o valor padrão será null. 
+	 *
+	 * Tipos primitivos em Java, como int, double, boolean, têm valores default específicos.
+	 * Por exemplo, para um int, o valor default é 0, para um double, o valor default é 0.0 
+	 * e para um boolean, o valor default é false.
+	 *
+	 * Se você declarar uma variável de referência a um objeto sem atribuir um valor inicial,
+	 * essa variável terá o valor null por padrão. Veja um exemplo:
+	 * String texto;
+	 * No exemplo acima, a variável texto foi declarada, mas nenhum valor foi atribuído a ela.
+	 * Portanto, seu valor default será null.
+	
+	 * Para executar um programa em Java, é necessário ter um ponto de entrada, que é o método 'main'.
 	 * Esse método é o ponto de partida da execução e é onde o programa começa a ser executado.
-	 * Como esse código não contem o método main, ele não será executável.*/
+	 * Como esse código não contem o método main, ele não será executável. */
 	
 }
