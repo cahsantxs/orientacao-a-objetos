@@ -1,7 +1,9 @@
 package bytebank;
 
 public class CriaConta {
+
 	public static void main(String[] args) {
+
 		Conta primeiraConta = new Conta(); 
 
 		/* Em Java, a palavra reservada new é utilizada para criar uma nova instância 
@@ -68,6 +70,8 @@ public class CriaConta {
 		/* Similarmente à linha anterior, estamos imprimindo uma mensagem no console.
 		 * Desta vez, a mensagem exibida será "segunda conta tem: " seguida do valor do saldo da segundaConta.
 		 * Estamos acessando a propriedade saldo da segundaConta para obter seu valor atual e concatenando-o à mensagem.*/
-			
+		
+		segundaConta.agencia = 146;
+		System.out.println("agora a segunda conta esta" + "na agencia" + segundaConta.agencia);
 	}
 }
