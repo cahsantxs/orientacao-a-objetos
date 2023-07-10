@@ -61,9 +61,9 @@ public class CriaConta {
 		 * uma nova string. É uma operação comum quando você precisa criar uma nova string que contenha
 		 *  informações combinadas de diferentes fontes. 
 		 *
-		 *  Exemplo:String str1 = "Olá";
-					String str2 = "Mundo";
-					String resultado = str1 + " " + str2; // Resultado: "Olá Mundo" */
+		 *  Exemplo:	String str1 = "Olá";
+						String str2 = "Mundo";
+						String resultado = str1 + " " + str2; // Resultado: "Olá Mundo" */
 
 		System.out.println("segunda conta tem: " + segundaConta.saldo);
 		
